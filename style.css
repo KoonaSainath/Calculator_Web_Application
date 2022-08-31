@@ -1,0 +1,29 @@
+html,body{
+    height: 100%;
+}
+
+#table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: grey;
+}
+
+#result{
+    width: 100%;
+    font-size: 1.5em;
+    box-sizing: border-box;
+    border: none;
+    background-color: wheat;
+    padding: 0.5em;
+}
+
+button{
+    height: 4em;
+    width: 4em;
+    color: white;
+    background-color: black;
+    font-size: 1.2em;
+    font-weight: bold;
+}
